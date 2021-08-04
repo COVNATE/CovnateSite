@@ -1,0 +1,39 @@
+h1{
+
+font-size: 18mm;
+margin-left: 30px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.H1-1{
+
+display : flexbox;
+color: darkslategrey;
+
+
+}
+.dono{
+
+    display : flexbox;
+   margin-left: 480px;
+}
+h2{
+
+    margin-top: 90mm;
+    font-size: 15mm;
+    margin-left: 350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkslategrey;
+
+}
+h3{
+
+    font-size: 10mm;
+    margin-left: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(8, 14, 14);
+
+
+}
